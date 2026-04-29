@@ -1,4 +1,4 @@
-# 🌫️ Air Quality Data Analysis — Amazon Bedrock (PartyRock)
+## 🌫️ Air Quality Data Analysis — Amazon Bedrock (PartyRock)
 
 ## 📌 Project Overview
 This project analyzes 30 days of real-world air quality sensor data using **Amazon Bedrock's generative AI** via PartyRock. It explores pollution patterns, outlier days, and pollutant volatility — the same type of analytical workflow used in cloud-based IoT monitoring pipelines on AWS.
