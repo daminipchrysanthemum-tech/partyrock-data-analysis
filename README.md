@@ -1,4 +1,4 @@
-# 🌫️ Air Quality Data Analysis with Amazon Bedrock
+## 🌫️ Air Quality Data Analysis with Amazon Bedrock
 
 ## 📌 Project Overview
 Analyzed 30 days of real-world air quality sensor data using **Amazon Bedrock (PartyRock)**
@@ -7,7 +7,7 @@ Analyzed 30 days of real-world air quality sensor data using **Amazon Bedrock (P
 ---
 
 ## 🛠️ Built With
-- **Amazon Bedrock** (PartyRock Analyze Data feature) https://partyrock.aws/data
+- **Amazon Bedrock** (PartyRock Analyze Data feature)
 - **Dataset:** OpenAQ Air Quality Data — [air-quality-data-set.csv](https://github.com/user-attachments/files/27190769/air-quality-data-set.csv)
 
 - **Tools:** Whiskers AI, CSV data upload, natural language querying
