@@ -55,7 +55,7 @@ Built as part of a hands-on cloud learning project to demonstrate real-world dat
 
 ## 🔗 Links
 - 🤖 **PartyRock App (Cloud Architecture Advisor):** https://partyrock.aws/data
-- 📁 **Dataset:** See `[air-quality-data-set.csv](https://github.com/user-attachments/files/27190394/air-quality-data-set.csv)` in this repo
+- 📁 **Dataset:** See `https://github.com/user-attachments/files/27190394/air-quality-data-set.csv` in this repo
 
 ---
 
