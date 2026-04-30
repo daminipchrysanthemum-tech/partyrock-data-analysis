@@ -7,7 +7,7 @@
 ## 🛠️ Built With
 
 - [Amazon Bedrock](https://aws.amazon.com/bedrock/) (PartyRock Analyze Data feature)
-- **Dataset:** OpenAQ Air Quality Data — [air-quality-data-set.csv](./data/air-quality-dataset.csv)
+- **Dataset:** OpenAQ Air Quality Data — [air-quality-data-set.csv](./data/air-quality-dataset.csv.md)
 - **Tools:** Whiskers AI, CSV data upload, natural language querying
 
 ---
