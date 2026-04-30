@@ -1,4 +1,4 @@
-# 🌫️ Air Quality Data Analysis with Amazon Bedrock
+## 🌫️ Air Quality Data Analysis with Amazon Bedrock
 
 > Analyzed 30 days of real-world air quality sensor data using **Amazon Bedrock (PartyRock)** — the same type of IoT telemetry workflow used in cloud-based environmental monitoring pipelines.
 
